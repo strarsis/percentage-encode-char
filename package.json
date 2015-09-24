@@ -1,23 +1,24 @@
 {
-  "name": "percentage-escape-char",
+  "name": "percentage-encode-char",
   "version": "0.1.0",
-  "description": ".",
+  "description": "Percentage-encodes a single character.",
   "license": "MIT",
-  "repository": "strarsis/percentage-escape-char",
+  "repository": "strarsis/percentage-encode-char",
   "author": {
     "name": "strarsis",
     "email": "strarsis@gmail.com",
-    "url": "https://github.com/strarsis/percentage-escape-char"
+    "url": "https://github.com/strarsis/percentage-encode-char"
   },
   "keywords": [
     "char",
     "character",
-    "escape",
+    "encode",
     "percentage",
     "encodeURI",
     "encodeURIComponent",
-    "encode",
-    "URI"
+    "URI",
+    "URL",
+    "urlencode"
   ],
   "main": "index.js",
   "scripts": {
