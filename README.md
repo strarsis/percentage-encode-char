@@ -17,7 +17,7 @@ Usage
 ````
 var percEncode = require('percentage-encode-char');
 percEncode('(');
-  => %28
+  => '%28'
 ````
 This function will only escape the first passed character, subsequent characters will not be encoded and returned by it.
 For encoding multiple characters, a string, use a loop, stream transform callback or similar mechanism for passing each character individually.
