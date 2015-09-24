@@ -1,0 +1,33 @@
+{
+  "name": "percentage-escape-char",
+  "version": "0.1.0",
+  "description": ".",
+  "license": "MIT",
+  "repository": "strarsis/percentage-escape-char",
+  "author": {
+    "name": "strarsis",
+    "email": "strarsis@gmail.com",
+    "url": "https://github.com/strarsis/percentage-escape-char"
+  },
+  "keywords": [
+    "char",
+    "character",
+    "escape",
+    "percentage",
+    "encodeURI",
+    "encodeURIComponent",
+    "encode",
+    "URI"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "jshint": "^2.8.0",
+    "mocha": "^2.3.2"
+  }
+}
