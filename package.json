@@ -18,7 +18,8 @@
     "encodeURIComponent",
     "URI",
     "URL",
-    "urlencode"
+    "urlencode",
+    "escape"
   ],
   "main": "index.js",
   "scripts": {
