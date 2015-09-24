@@ -26,5 +26,5 @@ For encoding multiple characters, a string, use a loop, stream transform callbac
 percentage-encode-char
 ----------------------
 #### char
-The char to be percentage encoded.
+The character to be percentage encoded.
 
