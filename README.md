@@ -1,6 +1,8 @@
 # percentage-encode-char
 Percentage-encodes a single character.
 
+[![NPM](https://nodei.co/npm/percentage-encode-char.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/percentage-encode-char/)
+
 In contrast to escape() (deprecated), encodeURI() or encodeURIComponent(), this function will encode any character 
 regardless whether the particular character needs escaping to adhere to a specific RFC or not.
 
