@@ -1,6 +1,8 @@
 # percentage-encode-char
 Percentage-encodes a single character.
 
+[![david](https://david-dm.org/strarsis/percentage-encode-char.svg)](https://david-dm.org/strarsis/percentage-encode-char)
+
 [![NPM](https://nodei.co/npm/percentage-encode-char.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/percentage-encode-char/)
 
 In contrast to escape() (deprecated), encodeURI() or encodeURIComponent(), this function will encode any character 
